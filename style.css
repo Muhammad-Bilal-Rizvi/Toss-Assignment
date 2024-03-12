@@ -1,0 +1,25 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    /* background-color: darkgrey; */
+    text-align: center;
+}
+button {
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 140px;
+    border-radius: 560px;
+    font-size: medium;
+}
+
+.toss-div {
+    border: 20px solid grey;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 50px;
+}
